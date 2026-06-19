@@ -21,3 +21,4 @@ terraform.rc
 
 # Environment variables (contains AWS credentials)
 .env
+Exercise 9.1.md
